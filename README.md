@@ -2,8 +2,8 @@
 
 ![Downdetector Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Downdetector_Logo.svg/2560px-Downdetector_Logo.svg.png)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/seu-repo/downdetector-monitor?style=social)  
-![GitHub contributors](https://img.shields.io/github/contributors/seu-repo/downdetector-monitor)
+![GitHub Repo stars](https://img.shields.io/github/stars/fernandesrobert/ZabbixDownDetector?style=social)  
+![GitHub contributors](https://img.shields.io/github/contributors/fernandesrobert/ZabbixDownDetector)
 
 Este projeto permite monitorar o status de serviços no **Downdetector** de forma automatizada utilizando o Playwright.
 
@@ -58,5 +58,5 @@ Este projeto pode ser integrado com sistemas de monitoramento como **Zabbix** e 
 Contribuições são bem-vindas! Faça um fork, crie sua branch e abra um PR. 🎯
 
 👥 **Contribuintes:**  
-![GitHub contributors](https://img.shields.io/github/contributors/seu-repo/downdetector-monitor)
+![GitHub contributors](https://img.shields.io/github/contributors/fernandesrobert/ZabbixDownDetector)
 
